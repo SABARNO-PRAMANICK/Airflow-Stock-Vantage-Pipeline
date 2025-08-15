@@ -48,7 +48,7 @@ stock-data-pipeline/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/SABARNO-PRAMANICK/Airflow-Stock-Vantage-Pipeline.git
-   cd stock-data-pipeline
+   cd Airflow-Stock-Vantage-Pipeline
    ```
 
 2. **Create a `.env` File**:
