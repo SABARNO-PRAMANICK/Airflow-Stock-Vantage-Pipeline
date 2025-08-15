@@ -47,7 +47,7 @@ stock-data-pipeline/
 ### Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/stock-data-pipeline.git
+   git clone https://github.com/SABARNO-PRAMANICK/Airflow-Stock-Vantage-Pipeline.git
    cd stock-data-pipeline
    ```
 
